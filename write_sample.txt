@@ -1,3 +1,2 @@
-Hello python
-This is new world!
-a	b	c
+hey
+hello
